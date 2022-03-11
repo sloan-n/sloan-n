@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sloan-n
-- 👀 I’m interested in edtech projects and ways to improve and support elementary and secondary teachers!
+- 👀 I’m interested in learning more about programming, algorithms, data structures and efficiency.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything!
 
 <!---
 sloan-n/sloan-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
